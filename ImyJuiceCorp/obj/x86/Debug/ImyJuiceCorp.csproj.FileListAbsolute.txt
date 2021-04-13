@@ -1,0 +1,4 @@
+D:\Babirye###\ImyJuiceCorp\ImyJuiceCorp\bin\Debug\ImyJuiceCorp.exe
+D:\Babirye###\ImyJuiceCorp\ImyJuiceCorp\bin\Debug\ImyJuiceCorp.pdb
+D:\Babirye###\ImyJuiceCorp\ImyJuiceCorp\obj\x86\Debug\ImyJuiceCorp.exe
+D:\Babirye###\ImyJuiceCorp\ImyJuiceCorp\obj\x86\Debug\ImyJuiceCorp.pdb
